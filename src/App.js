@@ -13,6 +13,7 @@ function App() {
     <div className='App'>
       <ClickerPage />
       <IgnasButton />
+      <h3>dev branch test meginimas</h3>
     </div>
   );
 }
