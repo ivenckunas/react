@@ -11,6 +11,7 @@ function App() {
   return (
     <div className='App'>
       <ClickerPage />
+      <h1>test</h1>
     </div>
   );
 }
