@@ -15,6 +15,7 @@ function App() {
       <IgnasButton />
       <h3>dev branch test meginimas</h3>
       <h2>Dar kazkas</h2>
+      <h1>Labas</h1>
     </div>
   );
 }
