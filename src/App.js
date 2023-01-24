@@ -5,13 +5,14 @@ import Button from '@mui/material/Button';
 import { useState } from 'react';
 import ClickerComp from './components/ClickerComp';
 import ClickerPage from './pages/ClickerPage';
+import IgnasButton from './components/IgnasButton';
 
 function App() {
 
   return (
     <div className='App'>
       <ClickerPage />
-      <h1>kazkas</h1>
+      <IgnasButton />
     </div>
   );
 }
